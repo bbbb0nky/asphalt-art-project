@@ -18,18 +18,20 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-< Put sketch / Final image here >
+![Garfield Sketch](IMG_20240915_000128.jpg)
+
+![Garfield Output](<Screenshot 2024-09-15 12.01.56 AM.png>)
 
 ## Reflection
 
 1. Describe your project.
 
-   - Write your response here...
+   - My project has my painter object paint a picture of garfield
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+   - One thing I am most proud of my proect is how the art turned out. For such a small space, I think you can tell who the character is. Another this I am proud about is how I did the coding. Learning for the first time how to code in java has been challenging, so I'm glad I was able to create a cohesive image for my first project.
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   - I would like to improve on my organization of the code. Although it is all commented, my code still feels somewhat messy.
